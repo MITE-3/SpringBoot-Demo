@@ -1,0 +1,8 @@
+#可读性高，用来表示资料序列的编程语言
+server:
+  port: 8080
+girl:
+  cupSize: B
+  age: 18
+
+
